@@ -12,10 +12,10 @@
 - Control de procesos
 
 ## 📂 Proyectos destacados
-🔹 Migración completa y unificación en un mismo Scada ( Schneider) Sector alimentario.
-🔹 Integración de cámaras de Vision Artificial Cognex.
-🔹 Integración de lector de codigo de barras DATAMATRIX Cognex.
-🔹 Puestas en marcha de pórticos de tamaño industrial.
+-🔹 Migración completa y unificación en un mismo Scada ( Schneider) Sector alimentario.
+-🔹 Integración de cámaras de Vision Artificial Cognex.
+-🔹 Integración de lector de codigo de barras DATAMATRIX Cognex.
+-🔹 Puestas en marcha de pórticos de tamaño industrial.
 
 ## 🎯 Proyectos personales
 -Cómo pasar datos a pantalla de tinta electronica Soldered desde Home Assistant
