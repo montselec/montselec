@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Montse
 
-<!--
-**montselec/montselec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnica en Automatización Industrial  & Instrumentación.
+Apasionada por crear nuevos sensores que nos den soluciones reales en automatizacion de procesos.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías
+- PLC Siemens (Simatic Manager ,TIA Portal)
+- PLC Schneider (Unity, Control Expert, Machine control expert, Vijeo Designer)
+- Siemens Control Distribuido PCS7
+- Instrumentación industrial
+- SCADA (WinCC / Aveva Wonderwore)
+- Control de procesos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- 🔹 Migración completa y unificación en un mismo Scada ( Schneider) Sector alimentario.
+- 🔹 Integracion de cámaras de Vision Artificial Cognex.
+- 🔹 Integración de lector de codigo de barras DATAMATRIX Cognex.
+- 
+
+## 🎯 Actualmente
+- Aprendiendo y reforzando programación PLC avanzada
+- Preparándome para nuevos retos en automatización industrial
+
+## 📫 Contacto
+- LinkedIn: (cuando quieras lo añadimos)
