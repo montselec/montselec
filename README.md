@@ -1,7 +1,7 @@
 # 👋 Hola, soy Montse
 
-Técnica en Automatización Industrial  & Instrumentación.
-Apasionada por crear nuevos sensores que nos den soluciones reales en automatizacion de procesos.
+- Técnica en Automatización Industrial  & Instrumentación.
+- En mi tiempo libre me fascina crear nuevos sensores que nos den soluciones reales en automatizacion de procesos.
 
 ## 🔧 Tecnologías
 - PLC Siemens (Simatic Manager ,TIA Portal)
